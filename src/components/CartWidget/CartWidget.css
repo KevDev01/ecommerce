@@ -1,5 +1,6 @@
 .container-cart{
-    color: white;
+    display: flex;
+    justify-content: center;
     font-size: 6vh;
-    padding: 2vh;
+    margin-right: 20px;
 }

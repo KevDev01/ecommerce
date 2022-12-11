@@ -1,0 +1,13 @@
+.card-styles{
+    display: inline-block;
+    margin: 1vh;
+    text-align: center;
+}
+.title{
+    font-weight: bolder;
+    height: 100px;
+    margin: auto;
+}
+.text{
+    font-size: large;
+}
