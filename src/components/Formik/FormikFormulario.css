@@ -1,0 +1,14 @@
+.formik{
+    margin: 2rem;
+    text-align: center;
+}
+.buttonSend {
+    margin: 20px;
+}
+.line {
+    border-top: 2px solid black;
+    height: 2px;
+    max-width: 600px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+  }

@@ -11,6 +11,7 @@
 .logo-navbar{
     width: 9vh;
     margin: 0.5vh;
+    margin-left: 60px;
 }
 .navbar{
     display: flex;
